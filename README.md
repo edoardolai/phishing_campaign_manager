@@ -17,7 +17,7 @@ and Streamlit that enables security teams to:
 ## **Features**
 
 - **Phishing Email Simulation**: Tools to create and send simulated phishing emails to target users.
-- **Campaign Analytics**: Analyze the response rates, click-through rates, and other metrics from simulated campaigns (note that in order to track response rates, a tracking service was deployed from a separate repository. You can find more details [here](https://github.com/Dadelidodu/phishing_campaign_api_deploy](https://github.com/edoardolai/phishing_campaign_api_deploy)).
+- **Campaign Analytics**: Analyze the response rates, click-through rates, and other metrics from simulated campaigns (note that in order to track response rates, a tracking service was deployed from a separate repository. You can find more details [here](https://github.com/edoardolai/phishing_campaign_api_deploy).
 - **Customizable Templates**: Predefined email templates and options to create custom phishing templates.
 - **Educational Tools**: Resources for educating users about phishing and how to recognize malicious emails.
 - **Data Visualization**: Graphs and charts to visualize the impact and effectiveness of campaigns.
